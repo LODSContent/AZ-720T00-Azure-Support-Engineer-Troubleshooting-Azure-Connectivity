@@ -1,3 +1,5 @@
+**This course will be retiring on  **2023/7/31**.  Once course is retired, all GitHub repos will be removed. Thank you.**
+
 # AZ-720: Troubleshooting Microsoft Azure Connectivity
 
 - **Are you a MCT?** - Have a look at our [GitHub User Guide for MCTs](https://microsoftlearning.github.io/MCT-User-Guide/)
